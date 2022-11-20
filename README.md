@@ -1,7 +1,7 @@
-# MusicClassesWebsite
+# BhattMusicClasses
 All New Music Website with Only Frontend and this website is fully Responsive with the features like Book Your Appointment, ContactUs,
 Login and Signup form and Dark and Light Mode too.
- TechStack Used:
+# TechStack Used:
 1.HTML 
 2.CSS
 3.BootStrap5
